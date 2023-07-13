@@ -1,1 +1,13 @@
 
+.parent{
+    background-color:#73FF00;
+    padding:20px 10px ;
+  
+  }
+  .child{
+    background-color: #C45A19;
+    padding:20px 10px ;
+  }
+  input{
+    padding:10px;
+  }
